@@ -18,8 +18,10 @@ const Header = () => {
             <Link class="nav-link active" to="/search">Searchrecipe</Link>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Pricing</a>
+            <Link class="nav-link active" to="/view">Viewall</Link>
           </li>
+          
+     
           <li class="nav-item">
             <a class="nav-link disabled">Disabled</a>
           </li>
